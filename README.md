@@ -6,8 +6,8 @@ Download your matches and demos from OGS in bulk. Use filters to ignore unwanted
 - Download online game sgf
 - Download demo/review sgf
 
-**Active Development:** <br>
-**Last Change:** <br>
+**Active Development:** 2024-09-27 - 2024-09-28<br>
+**Last Change:** 2024-09-28<br>
 
 | | |
 | :---: | :---: |
